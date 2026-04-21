@@ -5,4 +5,4 @@ title: Cover Letter
 
 # Cover Letter
 
-[Paste your cover letter here]
+<embed src="coverLetter.pdf" width="100%" height="600px" type="application/pdf">
